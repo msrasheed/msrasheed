@@ -1,4 +1,11 @@
 ### Hi there 👋
+### I'm Moiz Rasheed
+
+- 🧑‍🎓 I'm an ECE Master's Student at Purdue University interested in Robotics and AI.
+- 🔭 I’m currently working at the CDesign Lab on the ROS-Unity side of HCI stuff 
+- ☀️ I'll be interning at SpaceX over the summer as an ASIC Verification Engineer
+- 📫 Check out my [LinkedIn](https://www.linkedin.com/in/msrasheed/)
+
 
 <!--
 **msrasheed/msrasheed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
