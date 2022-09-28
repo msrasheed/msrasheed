@@ -1,10 +1,12 @@
 ### Hi there 👋
 ### I'm Moiz Rasheed
 
-- 🧑‍🎓 I'm an ECE Master's Student at Purdue University interested in Robotics and AI.
+- 🧑‍🎓 I'm an ECE Master's Student at Purdue University
 - 🔭 I’m currently working at the CDesign Lab on the ROS-Unity side of HCI stuff 
-- ☀️ I'll be interning at SpaceX over the summer as an ASIC Verification Engineer
 - 📫 Check out my [LinkedIn](https://www.linkedin.com/in/msrasheed/)
+
+<img src="https://github-readme-stats.vercel.app/api?username=msrasheed&show_icons=true" width="410"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=msrasheed" width="400" />
 
 
 <!--
