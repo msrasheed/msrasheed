@@ -5,8 +5,8 @@
 - 🔭 I’m currently working at the CDesign Lab on the ROS-Unity side of HCI stuff 
 - 📫 Check out my [LinkedIn](https://www.linkedin.com/in/msrasheed/)
 
-<img src="https://github-readme-stats.vercel.app/api?username=msrasheed&show_icons=true" width="410"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=msrasheed" width="400" />
+<img src="https://github-readme-stats.vercel.app/api?username=msrasheed&show_icons=true&count_private=true" width="410"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=msrasheed&count_private=true" width="400" />
 
 
 <!--
