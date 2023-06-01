@@ -1,13 +1,10 @@
 ### Hi there 👋
 ### I'm Moiz Rasheed
 
-- 🧑‍🎓 I'm an ECE Master's Student at Purdue University
-- 🔭 I’m currently working at the CDesign Lab on the ROS-Unity side of HCI stuff 
-- 📫 Check out my [LinkedIn](https://www.linkedin.com/in/msrasheed/)
-
+<!--
 <img src="https://github-readme-stats.vercel.app/api?username=msrasheed&show_icons=true&count_private=true" width="410"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=msrasheed&count_private=true" width="400" />
-
+-->
 
 <!--
 **msrasheed/msrasheed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
